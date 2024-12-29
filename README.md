@@ -6,6 +6,7 @@ The tasks include:
 - Structuring a folder system on CSHost.
 - Creating a personal homepage.
 - Developing a Maintenance Request Ticketing System using HTML5.
+  <br> 
 
 ## Tasks and Requirements
 1. **Folder Structure**
