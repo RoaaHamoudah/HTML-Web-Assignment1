@@ -48,3 +48,5 @@ The tasks include:
       - **Confirmation Page**: Summarizes submitted maintenance requests.
         
    - Uses semantic tags (`<header>`, `<main>`, `<section>`, `<footer>`), tables, forms, and validation techniques.
+
+## General Requirements
