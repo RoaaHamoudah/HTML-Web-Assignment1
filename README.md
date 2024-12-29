@@ -50,4 +50,4 @@ The tasks include:
    - Uses semantic tags (`<header>`, `<main>`, `<section>`, `<footer>`), tables, forms, and validation techniques.
 
 ## General Requirements
-   - All links 
+   - All links use relative paths.
