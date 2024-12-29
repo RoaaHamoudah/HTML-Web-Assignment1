@@ -21,7 +21,7 @@ The tasks include:
         - **project**: Contains project-related files.
    - Each folder includes an `index.html` file as the default page.
 
-2. **Personal Homepage**
+2. **Personal Homepage** 
    - Includes:
       - personal details, including:
          - Short Biography
@@ -34,4 +34,6 @@ The tasks include:
       - Navigation links to assignments, examples, and projects.
    - Utilizes:
       - Headers, paragraphs, images, hyperlinks, lists, tables, and forms.
+        
 3. **Maintenance Request Ticketing System**
+   - Features static HTML5 pages:
