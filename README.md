@@ -22,7 +22,7 @@ The tasks include:
    - Each folder includes an `index.html` file as the default page.
 
 2. **Personal Homepage**
-   - Includes:
+   - **Includes:**
       - personal details, including:
          - Short Biography
          - Education
@@ -32,5 +32,5 @@ The tasks include:
          - Awards and Distinctions
       - A study timetable for the current semester.
       - Navigation links to assignments, examples, and projects.
-   - Utilizes:
+   - **Utilizes:**
       - Headers, paragraphs, images, hyperlinks, lists, tables, and forms.
