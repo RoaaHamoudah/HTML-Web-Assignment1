@@ -13,7 +13,7 @@ The tasks include:
    - Subfolders include:
         - **ass**: Contains:
            - **index.html**: Links to all assignment-related content.
-           - **ass1**: Contains: 
+           - **ass1**: Contains:
               - **index.html**: The main file for Assignment 1.
               - **Other files for Assignment 1.**
           
