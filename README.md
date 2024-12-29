@@ -9,7 +9,12 @@ The tasks include:
 
 ## Tasks and Requirements
 1. **Folder Structure**
-   - The website's folder is organized on CSHost under 'public_html'.
+   - The website's folder is organized on CSHost under `public_html`.
+   - Subfolders include:
+        - `ass`: Contains assignment-related files.
+        - `examples`: Stores HTML examples discussed in lectures.
+        - `project`: Contains project-related files.
+   - Each folder includes an `index.html` file as the default page.
 
 
 
