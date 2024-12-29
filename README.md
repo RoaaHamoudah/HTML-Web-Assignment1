@@ -21,5 +21,9 @@ The tasks include:
         - **project**: Contains project-related files.
    - Each folder includes an `index.html` file as the default page.
 
-
-
+2. **Personal Homepage**
+   - Includes:
+      - A biography with personal details, education, training, and community involvement.
+      - A study timetable for the current semester.
+      - Navigation links to assignments, examples, and projects.
+   - Utilizes:
