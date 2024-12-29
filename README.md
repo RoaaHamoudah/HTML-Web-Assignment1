@@ -33,6 +33,7 @@ The tasks include:
          - Awards and Distinctions
       - A study timetable for the current semester.
       - Navigation links to assignments, examples, and projects.
+        
    - Utilizes:
       - Headers, paragraphs, images, hyperlinks, lists, tables, and forms.
         <br> <br>
