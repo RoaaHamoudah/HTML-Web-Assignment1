@@ -23,7 +23,7 @@ The tasks include:
 
 2. **Personal Homepage**
    - Includes:
-      - A biography with personal details, including:
+      - personal details, including:
          - Short Biography
          - Education
          - Training
@@ -33,3 +33,4 @@ The tasks include:
       - A study timetable for the current semester.
       - Navigation links to assignments, examples, and projects.
    - Utilizes:
+      - Headers, paragraphs, images, hyperlinks, lists, tables, and forms.
