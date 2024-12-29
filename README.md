@@ -42,4 +42,4 @@ The tasks include:
       - **Administrator Dashboard**: Lists open tickets with details like ID, description, urgency, and status.
       - **Assign Ticket Page**: Allows admins to assign tickets to staff members.
       - **Maintenance Request Form**: Enables users to submit maintenance requests with descriptions and optional photo uploads.
-      - **Confirmation Page**:             
+      - **Confirmation Page**:     
