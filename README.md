@@ -39,3 +39,4 @@ The tasks include:
    - Features static HTML5 pages:
       - **Client Home Page**: Introduces the business domain and services.
       - **Contact Us**: Displays contact information and includes a contact form.
+      - **Administrator Dashboard**: 
