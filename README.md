@@ -15,7 +15,7 @@ The tasks include:
            - **index.html**: Links to all assignment-related content.
            - **ass1**: Contains:
               - **index.html**: The main file for Assignment 1.
-              - Other files for Assignment 1.
+              - **Other files for Assignment 1.**
           
         - **examples**: Stores HTML examples discussed in lectures.
         - **project**: Contains project-related files.
