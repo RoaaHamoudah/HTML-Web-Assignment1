@@ -8,7 +8,8 @@ The tasks include:
 - Developing a Maintenance Request Ticketing System using HTML5.
 
 ## Tasks and Requirements
-
+1. **Folder Structure**
+   - The website's folder is organized on CSHost under public_html.
 
 
 
