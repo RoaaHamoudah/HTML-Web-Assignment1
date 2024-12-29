@@ -37,3 +37,4 @@ The tasks include:
         
 3. **Maintenance Request Ticketing System**
    - Features static HTML5 pages:
+      - **Client Home Page**: Introduces the business domain and services.
