@@ -19,7 +19,7 @@ The tasks include:
           
         - **examples**: Stores HTML examples discussed in lectures.
         - **project**: Contains project-related files.
-   - Each folder includes an `index.html` file as the default page.
+   - Each folder includes an `index.html` file as the default page.<br>
   
      
 2. **Personal Homepage** 
