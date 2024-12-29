@@ -9,7 +9,7 @@ The tasks include:
 
 ## Tasks and Requirements
 1. **Folder Structure**
-   - The website's folder is organized on CSHost under public_html.
+   - The website's folder is organized on CSHost under 'public_html'.
 
 
 
