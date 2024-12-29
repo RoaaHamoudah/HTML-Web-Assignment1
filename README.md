@@ -48,7 +48,7 @@ The tasks include:
       - **Confirmation Page**: Summarizes submitted maintenance requests.
         
    - Uses semantic tags (`<header>`, `<main>`, `<section>`, `<footer>`), tables, forms, and validation techniques.
-                                                                                           
+   
 ## General Requirements
    - All links use relative paths.
    - HTML pages are validated using [W3C Validator](http://validator.w3.org/).
