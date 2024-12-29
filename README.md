@@ -35,6 +35,7 @@ The tasks include:
       - Navigation links to assignments, examples, and projects.
    - Utilizes:
       - Headers, paragraphs, images, hyperlinks, lists, tables, and forms.
+        <br> <br>
         
 3. **Maintenance Request Ticketing System**
    - Features static HTML5 pages:
