@@ -23,7 +23,13 @@ The tasks include:
 
 2. **Personal Homepage**
    - Includes:
-      - A biography with personal details, education, training, and community involvement.
+      - A biography with personal details, including:
+         - Short Biography
+         - Education
+         - Training
+         - Employment or Internship
+         - Community and Voluntary Works
+         - Awards and Distinctions
       - A study timetable for the current semester.
       - Navigation links to assignments, examples, and projects.
    - Utilizes:
