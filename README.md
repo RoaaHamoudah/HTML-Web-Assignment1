@@ -41,4 +41,4 @@ The tasks include:
       - **Contact Us**: Displays contact information and includes a contact form.
       - **Administrator Dashboard**: Lists open tickets with details like ID, description, urgency, and status.
       - **Assign Ticket Page**: Allows admins to assign tickets to staff members.
-      - **Maintenance Request Form**: 
+      - **Maintenance Request Form**: Enables users to submit maintenance requests with descriptions and optional photo uploads.
