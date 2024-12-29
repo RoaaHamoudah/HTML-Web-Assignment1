@@ -38,7 +38,7 @@ The tasks include:
       - Headers, paragraphs, images, hyperlinks, lists, tables, and forms.
         <br> <br>
         
-3. **Maintenance Request Ticketing System**   
+3. **Maintenance Request Ticketing System**
    - Features static HTML5 pages:
       - **Client Home Page**: Introduces the business domain and services.
       - **Contact Us**: Displays contact information and includes a contact form.
