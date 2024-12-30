@@ -51,7 +51,3 @@ The tasks include:
 
 ## General Requirements
    - All links use relative paths.
-
-
-
-   
