@@ -51,7 +51,7 @@ The tasks include:
 
 ## General Requirements
    - All links use relative paths.
-   - HTML pages are validated using [W3C Validator]
+   - HTML pages are validated using [W3C Validator](http://validator.w3.org/).
 
 
 
