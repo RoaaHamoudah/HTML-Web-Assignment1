@@ -52,6 +52,6 @@ The tasks include:
 ## General Requirements
    - All links use relative paths.
    - HTML pages are validated using [W3C Validator](http://validator.w3.org/).
-   - Forms send data using the `POST` method to the specified URL.
+   - Forms send data using the `POST` method to the specified URL.  
 
 
