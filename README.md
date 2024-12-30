@@ -60,6 +60,3 @@ The tasks include:
 
 
 
-
-
-
