@@ -21,4 +21,5 @@ The tasks include:
      - **project**: Contains project-related files.
    - Each folder includes an `index.html` file as the default page.
      <br> <br>
-   
+
+2. **Personal Homepage** 
