@@ -37,3 +37,14 @@ The tasks include:
    - Utilizes:
       - Headers, paragraphs, images, hyperlinks, lists, tables, and forms.
         <br> <br>
+
+3. **Maintenance Request Ticketing System**
+   - Features static HTML5 pages:
+      - **Client Home Page**: Introduces the business domain and services.
+      - **Contact Us**: Displays contact information and includes a contact form.
+      - **Administrator Dashboard**: Lists open tickets with details like ID, description, urgency, and status.
+      - **Assign Ticket Page**: Allows admins to assign tickets to staff members.
+      - **Maintenance Request Form**: Enables users to submit maintenance requests with descriptions and optional photo uploads.
+      - **Confirmation Page**: Summarizes submitted maintenance requests.
+        
+   - Uses semantic tags (`<header>`, `<main>`, `<section>`, `<footer>`), tables, forms, and validation techniques.
