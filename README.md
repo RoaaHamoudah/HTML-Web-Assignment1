@@ -3,3 +3,5 @@ This repository contains the files for Assignment 1 of (COMP334): Web Applicatio
 
 ## Overview
 The tasks include: 
+- Structuring a folder system on CSHost.
+- Creating a personal homepage.
