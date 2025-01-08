@@ -7,3 +7,4 @@ The tasks include:
 - Creating a personal homepage.
 - Developing a Maintenance Request Ticketing System using HTML5.
 
+## Tasks and Requirements
