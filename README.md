@@ -22,7 +22,21 @@ The tasks include:
    - Each folder includes an `index.html` file as the default page.
      <br> <br>
 
-
+2. **Personal Homepage** 
+   - Includes:
+      - personal details, including:
+         - Short Biography
+         - Education
+         - Training
+         - Employment or Internship
+         - Community and Voluntary Works
+         - Awards and Distinctions
+      - A study timetable for the current semester.
+      - Navigation links to assignments, examples, and projects.
+        
+   - Utilizes:
+      - Headers, paragraphs, images, hyperlinks, lists, tables, and forms.
+        <br> <br>
 
 3. **Maintenance Request Ticketing System**
    - Features static HTML5 pages:
